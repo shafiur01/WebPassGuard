@@ -55,8 +55,6 @@ class Mywebinfo: UIViewController {
         newWebsiteInfo.websiteName = websiteNameText
         newWebsiteInfo.url = url
         newWebsiteInfo.username = username
-        
-        // TODO: Securely store the password, don't save it in plain text.
         newWebsiteInfo.password = password
         
         do {
