@@ -64,7 +64,5 @@ Open a Pull Request
 
 # Contact
 Name: Shafiur Rahman Bhauyan
-
 Email: shafiurrahman2024@gmail.com
-
 Project Link: https://github.com/shafiur01/WebPassGuard
